@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE anime_catalog SYSTEM "anime_catalog.dtd">
+
+<anime_catalog>
+    <anime anime_id="2" is_going="Не">
+        <main_info>
+            <title>Naruto Shippuden</title>
+            <author>Masashi Kishimoto</author>
+            <genre>Action, Adventure, Comedy</genre>
+            <type>Shounen</type>
+            <source>Manga</source>
+        </main_info>
+        <show_info>
+            <seasons>
+                <season episodes="32" period="2007">1</season>
+                <season episodes="21" period="2007-2008">2</season>
+                <season episodes="18" period="2008">3</season>
+                <season episodes="17" period="2008">4</season>
+                <season episodes="24" period="2008-2009">5</season>
+                <season episodes="31" period="2009-2010">6</season>
+                <season episodes="8" period="2010">7</season>
+                <season episodes="24" period="2010">8</season>
+                <season episodes="21" period="2010-2011">9</season>
+                <season episodes="25" period="2011">10</season>
+                <season episodes="21" period="2011">11</season>
+                <season episodes="33" period="2012">12</season>
+                <season episodes="20" period="2012-2013">13</season>
+                <season episodes="25" period="2013">14</season>
+                <season episodes="28" period="2013-2014">15</season>
+                <season episodes="13" period="2014">16</season>
+                <season episodes="11" period="2014">17</season>
+                <season episodes="21" period="2014">18</season>
+                <season episodes="20" period="2015">19</season>
+                <season episodes="66" period="2015-2016">20</season>
+                <season episodes="21" period="2016-2017">21</season>
+            </seasons>
+            <all_episodes>500</all_episodes>
+            <duration unit="minutes">23</duration>
+        </show_info>
+        <publish_info>
+            <aired>
+                <begin>15 Feb 2007</begin>
+                <end>23 Mar 2017</end>
+            </aired>
+            <premiered unit="year" season="Winter">2007</premiered>
+            <studio>Studio Pierrot</studio>
+            <producers>TV Tokyo, Aniplex, KSS, Rakuonsha, TV Tokyo Music, Shueisha</producers>
+            <licensors>VIZ Media</licensors>
+        </publish_info>
+        <statistics_info>
+            <score>8.23</score>
+            <rank>288</rank>
+            <popularity>16</popularity>
+        </statistics_info>
+    </anime>
+</anime_catalog>

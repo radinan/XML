@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT anime_catalog (anime*)>
+    <!ELEMENT anime (main_info, show_info, publish_info, statistics_info)>
+        <!ELEMENT main_info (title, author, genre, type, source)>
+            <!ELEMENT title (#PCDATA)>
+            <!ELEMENT author (#PCDATA)>
+            <!ELEMENT genre (#PCDATA)>
+            <!ELEMENT type (#PCDATA)>
+            <!ELEMENT source (#PCDATA)>
+        <!ELEMENT show_info (seasons+, all_episodes, duration)>
+            <!ELEMENT seasons (season+)>
+                <!ELEMENT season (#PCDATA)>
+            <!ELEMENT all_episodes (#PCDATA)>
+            <!ELEMENT duration (#PCDATA)>
+        <!ELEMENT publish_info (aired, premiered, studio, producers, licensors)>
+            <!ELEMENT aired (begin, end)>
+                <!ELEMENT begin (#PCDATA)>
+                <!ELEMENT end (#PCDATA)>
+            <!ELEMENT premiered (#PCDATA)>
+            <!ELEMENT studio (#PCDATA)>
+            <!ELEMENT producers (#PCDATA)>
+            <!ELEMENT licensors (#PCDATA)>
+        <!ELEMENT statistics_info (score, rank, popularity)>
+            <!ELEMENT score (#PCDATA)>
+            <!ELEMENT rank (#PCDATA)>
+            <!ELEMENT popularity (#PCDATA)>
+
+<!ATTLIST anime anime_id CDATA #REQUIRED>
+<!ATTLIST anime is_going (Да|Не) "Да">
+<!ATTLIST season episodes CDATA #REQUIRED>
+<!ATTLIST season period CDATA #REQUIRED>
+<!ATTLIST duration unit CDATA #REQUIRED>
+<!ATTLIST premiered unit CDATA #REQUIRED>
+<!ATTLIST premiered season (Winter|Spring|Summer|Fall) #REQUIRED>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE anime_catalog SYSTEM "anime_catalog.dtd">
+
+<anime_catalog>
+    <anime anime_id="1" is_going="Не">
+        <main_info>
+            <title>Naruto</title>
+            <author>Masashi Kishimoto</author>
+            <genre>Action, Adventure, Comedy</genre>
+            <type>Shounen</type>
+            <source>Manga</source>
+        </main_info>
+        <show_info>
+            <seasons>
+                <season episodes="57" period="2002-2003">1</season>
+                <season episodes="43" period="2003-2004">2</season>
+                <season episodes="41" period="2004-2005">3</season>
+                <season episodes="42" period="2005-2006">4</season>
+                <season episodes="37" period="2006-2007">5</season>
+            </seasons>
+            <all_episodes>220</all_episodes>
+            <duration unit="minutes">23</duration>
+        </show_info>
+        <publish_info>
+            <aired>
+                <begin>3 Oct 2002</begin>
+                <end>8 Feb 2007</end>
+            </aired>
+            <premiered unit="year" season="Fall">2002</premiered>
+            <studio>Studio Pierrot</studio>
+            <producers>TV Tokyo, Aniplex, Shueisha</producers>
+            <licensors>VIZ Media</licensors>
+        </publish_info>
+        <statistics_info>
+            <score>7.96</score>
+            <rank>615</rank>
+            <popularity>7</popularity>
+        </statistics_info>
+    </anime>
+</anime_catalog>

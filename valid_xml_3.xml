@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE anime_catalog SYSTEM "anime_catalog.dtd">
+
+<anime_catalog>
+    <anime anime_id="3" is_going="Не">
+        <main_info>
+            <title>Odd Taxi</title>
+            <author>Kazuya Konomoto, Takeichi Abaraya</author>
+            <genre>Mystery</genre>
+            <type>Seinen</type>
+            <source>Original</source>
+        </main_info>
+        <show_info>
+            <seasons>
+                <season episodes="13" period="2021">1</season>
+            </seasons>
+            <all_episodes>13</all_episodes>
+            <duration unit="minutes">23</duration>
+        </show_info>
+        <publish_info>
+            <aired>
+                <begin>6 Apr 2021</begin>
+                <end>29 Jun 2021</end>
+            </aired>
+            <premiered unit="year" season="Spring">2021</premiered>
+            <studio>OLM, P.I.C.S.</studio>
+            <producers>Pony Canyon, Pony Canyon Enterprise</producers>
+            <licensors>Unknown</licensors>
+        </publish_info>
+        <statistics_info>
+            <score>8.77</score>
+            <rank>36</rank>
+            <popularity>840</popularity>
+        </statistics_info>
+    </anime>
+</anime_catalog>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE anime_catalog SYSTEM "anime_catalog.dtd">
+
+<anime_catalog>
+    <anime anime_id="5" is_going="Да">
+        <main_info>
+            <title>Koroshi Ai</title>
+            <author>Fe</author>
+            <genre>Action, Romance</genre>
+            <type>Josei</type>
+            <source>Manga</source>
+        </main_info>
+        <show_info>
+            <seasons>
+                <season episodes="4" period="2022">1</season>
+            </seasons>
+            <all_episodes>12</all_episodes>
+            <duration unit="minutes">23</duration>
+        </show_info>
+        <publish_info>
+            <aired>
+                <begin>13 Jan 2022</begin>
+                <end>Unknown</end>
+            </aired>
+            <premiered unit="year" season="Winter">2022</premiered>
+            <studio>Platinum Vision</studio>
+            <producers>Pony Canyon</producers>
+            <licensors>Crunchyroll</licensors>
+        </publish_info>
+        <statistics_info>
+            <score>7.03</score>
+            <rank>3715</rank>
+            <popularity>1972</popularity>
+        </statistics_info>
+    </anime>
+</anime_catalog>
