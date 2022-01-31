@@ -27,9 +27,7 @@
             <!ELEMENT popularity (#PCDATA)>
 
 <!ATTLIST anime anime_id CDATA #REQUIRED>
-<!ATTLIST anime is_going (Да|Не) "Да">
+<!ATTLIST author nationality CDATA #REQUIRED>
 <!ATTLIST season episodes CDATA #REQUIRED>
-<!ATTLIST season period CDATA #REQUIRED>
 <!ATTLIST duration unit CDATA #REQUIRED>
-<!ATTLIST premiered unit CDATA #REQUIRED>
 <!ATTLIST premiered season (Winter|Spring|Summer|Fall) #REQUIRED>

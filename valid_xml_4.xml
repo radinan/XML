@@ -2,17 +2,17 @@
 <!DOCTYPE anime_catalog SYSTEM "anime_catalog.dtd">
 
 <anime_catalog>
-    <anime anime_id="4" is_going="Не">
+    <anime anime_id="4">
         <main_info>
             <title>Tokyo Revengers</title>
-            <author>Ken Wakui</author>
+            <author nationality="Japanese">Ken Wakui</author>
             <genre>Action, Drama, Supernatural</genre>
             <type>Shounen</type>
             <source>Manga</source>
         </main_info>
         <show_info>
             <seasons>
-                <season episodes="13" period="2021">1</season>
+                <season episodes="13">1</season>
             </seasons>
             <all_episodes>13</all_episodes>
             <duration unit="minutes">23</duration>
@@ -22,7 +22,7 @@
                 <begin>11 Apr 2021</begin>
                 <end>19 Sep 2021</end>
             </aired>
-            <premiered unit="year" season="Spring">2021</premiered>
+            <premiered season="Spring">2021</premiered>
             <studio>LIDENFILMS</studio>
             <producers>Pony Canyon</producers>
             <licensors>Unknown</licensors>
