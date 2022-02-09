@@ -18,7 +18,7 @@ function createXMLDocument() {
     title.appendChild(doc.createTextNode("Tokyo Revengers"));
 
     let author = doc.createElement("author");
-    author.setAttribute("nationality", "Japanese");
+    author.setAttribute("nationality", "American");
     main_info.appendChild(author);
     author.appendChild(doc.createTextNode("Ken Wakui"));
 
@@ -82,7 +82,7 @@ function createXMLDocument() {
     publish_info.appendChild(producers);
     producers.appendChild(doc.createTextNode("Pony Canyon"));
 
-    let licensors = doc.createElement("licensor");
+    let licensors = doc.createElement("licensors");
     publish_info.appendChild(licensors);
     licensors.appendChild(doc.createTextNode("Unknown"));
 
